@@ -20,7 +20,6 @@
 
 - `code/`：模型、训练程序和多GPU后台启动脚本。
 - `logs/`：三组100轮训练的完整控制台日志。
-- `results/`：逐轮指标CSV、训练曲线和汇总表。
 - `requirements.txt`：Python依赖及CUDA版PyTorch版本。
 
 ## 环境与运行
